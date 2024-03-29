@@ -139,6 +139,8 @@ extra credits:
 1. Dockerize your project using docker and docker compose to run your project.
 
 docker-compose build
+
+
 docker-compose up
 
 
