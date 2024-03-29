@@ -1,3 +1,11 @@
+to run the system using docker:
+
+docker-compose build
+
+
+docker-compose up
+
+
 1. I want to register a user into the system.
 
 http://localhost:8000/api/register/
