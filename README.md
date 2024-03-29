@@ -6,6 +6,13 @@ docker-compose build
 docker-compose up
 
 
+OR
+
+pip install -r requirements.txt
+
+
+python manage.py runserver
+
 1. I want to register a user into the system.
 
 http://localhost:8000/api/register/
